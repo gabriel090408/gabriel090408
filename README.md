@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <img class="avatar" src="https://s5.ezgif.com/tmp/ezgif-5c1b4626f4a768ee.mp4" width="600"/>
+  <img class="avatar" src="https://github.com/user-attachments/assets/1558b405-817d-4e78-adf9-1352e5119ead" width="600"/>
 </div>
 
 <br>
@@ -42,4 +42,7 @@ src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username
 <br>
 
 
-<div class="tenor-gif-embed" data-postid="5548569616551314883" data-share-method="host" data-aspect-ratio="1.32447" data-width="100%"><a href="https://tenor.com/view/d-cyberpunk-edgerunners-2-d-cyberpunk-gif-5548569616551314883">D Cyberpunk Edgerunners 2 GIF</a>from <a href="https://tenor.com/search/d+cyberpunk+edgerunners+2-gifs">D Cyberpunk Edgerunners 2 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+https://github.com/user-attachments/assets/1558b405-817d-4e78-adf9-1352e5119ead
+
+
