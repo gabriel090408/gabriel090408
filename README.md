@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <img class="avatar" src="[[https://github.com/paulopontodev/paulopontodev/blob/main/src/edgerunners.gif?raw=true](https://tenor.com/view/d-cyberpunk-edgerunners-2-d-cyberpunk-gif-5548569616551314883)](https://s5.ezgif.com/tmp/ezgif-5c1b4626f4a768ee.mp4)" width="600"/>
+  <img class="avatar" src="https://s5.ezgif.com/tmp/ezgif-5c1b4626f4a768ee.mp4" width="600"/>
 </div>
 
 <br>
