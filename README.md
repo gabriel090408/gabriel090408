@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-<img src="![https://github.com/user-attachments/assets/1558b405-817d-4e78-adf9-1352e5119ead]"/>
+<img src="[![https://github.com/user-attachments/assets/1558b405-817d-4e78-adf9-1352e5119ead]](https://s5.ezgif.com/tmp/ezgif-50496ebafcc9272b.gif)"/>
 </div>
 
 <br>
