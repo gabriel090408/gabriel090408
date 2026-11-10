@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+Profile!" alt="Typing SVG"/>
+  <img src="https://tenor.com/view/d-cyberpunk-edgerunners-2-d-cyberpunk-gif-5548569616551314883"/>
 </a>
 
 </div>
