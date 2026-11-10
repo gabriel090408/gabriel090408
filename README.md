@@ -8,9 +8,8 @@
 <br>
 <br>
 
-https://github.com/user-attachments/assets/1558b405-817d-4e78-adf9-1352e5119ead
 <div align="center">
-  <img class="avatar" src="https://github.com/user-attachments/assets/1558b405-817d-4e78-adf9-1352e5119ead" width="600"/>
+<img src="https://github.com/user-attachments/assets/1558b405-817d-4e78-adf9-1352e5119ead"/>
 </div>
 
 <br>
